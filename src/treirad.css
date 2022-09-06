@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  canvas {
+    border: 1px solid black;
+    background-color: lightyellow;
+    text-align: center;
+  }
+  
+  #game {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 75px;
+  }
+  #tic {
+    margin: 0;
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+  }
+  #rules {
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    display: inline-block;
+  }
+  
+  p {
+    font-size: 22px;
+    margin: 5px;
+    color: brown;
+  }
+  
+  h2 {
+  }
+  
+  button {
+    margin-top: 20px;
+    width: 150px;
+    height: 35px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: limegreen;
+    color: gold;
+    border: 1px solid black;
+  }
+  
